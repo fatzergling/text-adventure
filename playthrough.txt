@@ -1,0 +1,8 @@
+east
+take yellow key
+take blue key
+west
+use yellow key
+west
+use blue key
+west

@@ -1,1 +1,5 @@
-# text-adventure
+# text-adventure'
+
+My game is a simple game that has two puzzles: opening the door and getting the machine to work. There are 4 keys, with only 2 of them needed to complete the game. The door has 3 key colors listed on it, which means that the fourth one is the correct value. The machine is a bit more obscure, but the description translates to blue in HTML color, which is the key you want to use. You can try additional times on the first but not on the second.
+
+I think my game is a play on the popular trope in escape games where you get some item and you use it at the end. The challenge in this short game is to figure out which items are the ones you need and which ones are useless. I feel like this scenario would be a more realistic and interesting escape scenario instead of using all iterms that you find in an escape room.
